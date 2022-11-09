@@ -1,0 +1,17 @@
+MARTES 8 DE NOVIEMBRE A LAS 9 : 05 AM
+
+Este es el primer escrito para trabajar por fin en git y git hub
+le meta es terminar el curso el dia 30 de noviembre de 2022
+
+vamos a poner checklist para lograr nuestros objestivos
+
+1 manipular git y git hub 
+
+2 crear un cambio en el archivo y guardarlo y aprender los comandos
+3 crear un merge y resolver errores
+4 resolver los ejercicios que hagan falta
+5 y terminar el curso antes del 30 de noviembre de 2022
+
+PRIMER ARCHIVO GUARDADO EL DIA MARTES 8 DE NOVIEMBRE
+
+.....
