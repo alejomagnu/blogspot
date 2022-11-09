@@ -17,3 +17,18 @@ PRIMER ARCHIVO GUARDADO EL DIA MARTES 8 DE NOVIEMBRE
 ..... 
 1 la primera mision ya se logro
 2 la segunda mision ya se logro
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+NOTAS :
+Carpeta > staging > repositorio 
+git add > pasa a staging el archivo > cuando usamos el commit - m el archivo se dirige a el > repositorio 
+cuando no le das add el archivo no esta rastreado es decir untracked cuando le das add empiza a ser trackeado y se va a staging , 
+STAGING : Es un area de preparacion
+REPOSITORIO : Es el lugar donde los archivos trackeados en staging se guardan para poder ser trakeados y revisados
+
+COMANDO EXTRA :
+CHEACKOUT > TRAES LOS ULTIMOS CAMBIOS O CAMBIOS ANTERIORES O ARCHIVOS INDEPENDIENTES  A  TU CARPETA 
+
+CADA COMMIT ES UNA NUEVA VERSION DEL ARCHIVO ES DECIR UNA NUEVA VERSION DEL ARCHIVO 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
