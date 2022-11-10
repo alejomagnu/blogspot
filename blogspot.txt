@@ -32,3 +32,8 @@ CHEACKOUT > TRAES LOS ULTIMOS CAMBIOS O CAMBIOS ANTERIORES O ARCHIVOS INDEPENDIE
 CADA COMMIT ES UNA NUEVA VERSION DEL ARCHIVO ES DECIR UNA NUEVA VERSION DEL ARCHIVO 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+MASTER : V1,V2,V3 >>>>>>> COMMIT >>>>>> V ACTUAL
+
+EXPERIMENTOS :  V EXPERIMENTAL 1>>>>>>>> V EXPERIMENTAL 2 >>>>>>>> V EXPERIMENTAL 3
+
+BUGFIXING / HOTFIXING : SE HACEN ARREGLOS DE CODIGO  EN POCO TIEMPO
