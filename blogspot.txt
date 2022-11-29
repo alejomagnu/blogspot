@@ -50,3 +50,5 @@ LA RAMA SE CREA DESDE DONDE ESTOY POR ESO EJECUTAR GIT STATUS PARA SABER DONDE E
 
 PARA CREAR UNA RAMA SE ESCRIBE BIT #BRACH  (Y EL NOMBRE DE LA CABECERA)
 CON GIT CHECKOUT SE PUEDE MOVER  DE CABECERA EN CABECERA   
+----------------------------------------------------------------------------------------------------------------------------------------------
+aprendiendo actualmente como conectar github y ssh , ahora se va a crear un nuevo commit para intentar establecer la conexion entre git hub y mis repositorios
